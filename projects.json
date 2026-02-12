@@ -63,10 +63,18 @@
     "status": 1
   },
   {
+    "title": "Pokehunt",
+    "folder": "Pokehunt",
+    "author": "Maximilian Greifeneder",
+    "year": "2025_WS",
+    "status": 1
+  },
+  {
     "title": "2d extraction shooter",
     "folder": "2d_extraction_shooter",
     "author": "Michael Spišák",
     "year": "2025_WS",
     "status": 0
   },
+  
 ]
