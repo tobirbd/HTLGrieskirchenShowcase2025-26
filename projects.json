@@ -27,6 +27,14 @@
     "year": "2025_WS",
     "status": 1
   },
+    {  
+        "title": "unknamend Zombie Shooter",
+        "folder": "zombieshooter",
+        "author": "Florian Oberhumer",
+        "year": "2032",
+        "info": "supper game",
+        "status": "0"
+    },
   {
     "title": "HyperKine",
     "folder": "HyperKine",
